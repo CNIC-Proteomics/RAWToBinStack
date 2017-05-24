@@ -1,0 +1,30 @@
+I:\wrk\soft_factory\binStackCreator\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\binStackCreator\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\binStackCreator\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\binStackCreator\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\binStackCreator\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\RawToBinStack\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.lookUp\bin\Release\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.lookUp\obj\Release\QuiXoT.lookUp.pdb

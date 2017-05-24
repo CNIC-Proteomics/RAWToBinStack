@@ -1,0 +1,161 @@
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\binStackCreator.exe.config
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\binStackCreator.exe
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\binStackCreator.pdb
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.dll
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\QuiXoT.math.dll
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\Interop.XCALIBURFILESLib.dll
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\QuiXoT.math.pdb
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\obj\Debug\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\obj\Debug\RawToBinStack.Form1.resources
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\obj\Debug\RawToBinStack.Properties.Resources.resources
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\obj\Debug\RawToBinStack.csproj.GenerateResource.Cache
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\obj\Debug\binStackCreator.exe
+I:\wrk\soft_factory\binStackCreator\RawToBinStack\obj\Debug\binStackCreator.pdb
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.exe.config
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.exe
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.pdb
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.math.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\Interop.XCALIBURFILESLib.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.math.pdb
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\obj\Debug\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.Properties.Resources.resources
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.csproj.GenerateResource.Cache
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\obj\Debug\binStackCreator.exe
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\obj\Debug\binStackCreator.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\binStackCreator.exe
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\binStackCreator.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.exe
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.frmMain.resources
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\binStackCreator.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\obj\Debug\binStackCreator.exe
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\obj\Debug\binStackCreator.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\binStackCreator.exe
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\binStackCreator.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\Interop.XCALIBURFILESLib.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\Interop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\bin\Debug\AxInterop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\obj\Debug\Interop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\obj\Debug\AxInterop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\obj\Debug\RawToBinStack.csproj.ResolveComReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\obj\Debug\RawToBinStack.frmMain.resources
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\obj\Debug\RawToBinStack.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\obj\Debug\RawToBinStack.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\RawToBinStack\obj\Debug\Interop.XCALIBURFILESLib.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\binStackCreator.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\obj\Debug\Interop.XCALIBURFILESLib.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\obj\Debug\Interop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\obj\Debug\AxInterop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\obj\Debug\RawToBinStack.csproj.ResolveComReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\obj\Debug\binStackCreator.exe
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\obj\Debug\binStackCreator.pdb
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\binStackCreator.exe
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\binStackCreator.pdb
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\Interop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\AxInterop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\bin\Debug\Interop.XCALIBURFILESLib.dll
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\obj\Debug\RawToBinStack.frmMain.resources
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\obj\Debug\RawToBinStack.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\reintegration\RawToBinStack\obj\Debug\RawToBinStack.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\Interop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\AxInterop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.csproj.ResolveComReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\Interop.XRAWFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\AxInterop.XRAWFILELib.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\Interop.XRAWFILELib.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\bin\Debug\AxInterop.XRAWFILELib.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\obj\Debug\Interop.XCALIBURFILESLib.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\obj\Debug\Interop.XRAWFILELib.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\obj\Debug\AxInterop.XRAWFILELib.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.csproj.ResolveComReference.cache
+I:\wrk\soft_factory\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.frmMain.resources
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.exe.config
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.exe
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.pdb
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.math.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\Interop.XRAWFILELib.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\AxInterop.XRAWFILELib.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.math.pdb
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\bin\Debug\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\obj\Debug\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\obj\Debug\Interop.XRAWFILELib.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\obj\Debug\AxInterop.XRAWFILELib.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.csproj.ResolveComReference.cache
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.frmMain.resources
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.Properties.Resources.resources
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.csproj.GenerateResource.Cache
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\obj\Debug\binStackCreator.exe
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\RawToBinStack\obj\Debug\binStackCreator.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.csproj.ResolveComReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\binStackCreator.exe
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\binStackCreator.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.exe
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\binStackCreator.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.dll
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.dll
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_stackRAW.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\QuiXoT.DA_Raw.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.frmMain.resources
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\RawToBinStack.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\bin\Debug\Interop.MSFileReaderLib.dll
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\RawToBinStack\obj\Debug\Interop.MSFileReaderLib.dll
+D:\DATUMARO\trabajo\github\RAWToBinStack\RawToBinStack\bin\Debug\binStackCreator.exe.config
+D:\DATUMARO\trabajo\github\RAWToBinStack\RawToBinStack\obj\Debug\Interop.MSFileReaderLib.dll
+D:\DATUMARO\trabajo\github\RAWToBinStack\RawToBinStack\obj\Debug\RawToBinStack.csproj.ResolveComReference.cache
+D:\DATUMARO\trabajo\github\RAWToBinStack\RawToBinStack\obj\Debug\binStackCreator.exe
+D:\DATUMARO\trabajo\github\RAWToBinStack\RawToBinStack\obj\Debug\binStackCreator.pdb

@@ -1,0 +1,30 @@
+I:\wrk\soft_factory\binStackCreator\QuiXoT.math\bin\Release\QuiXoT.math.dll
+I:\wrk\soft_factory\binStackCreator\QuiXoT.math\bin\Release\QuiXoT.math.pdb
+I:\wrk\soft_factory\binStackCreator\QuiXoT.math\obj\Release\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\binStackCreator\QuiXoT.math\obj\Release\QuiXoT.math.dll
+I:\wrk\soft_factory\binStackCreator\QuiXoT.math\obj\Release\QuiXoT.math.pdb
+I:\wrk\soft_factory\RawToBinStack\trunk\QuiXoT.math\bin\Release\QuiXoT.math.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\QuiXoT.math\bin\Release\QuiXoT.math.pdb
+I:\wrk\soft_factory\RawToBinStack\trunk\QuiXoT.math\obj\Release\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\RawToBinStack\trunk\QuiXoT.math\obj\Release\QuiXoT.math.dll
+I:\wrk\soft_factory\RawToBinStack\trunk\QuiXoT.math\obj\Release\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\QuiXoT.math\bin\Release\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\QuiXoT.math\bin\Release\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\QuiXoT.math\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\QuiXoT.math\obj\Release\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\branches\newXcaliburLibraries\QuiXoT.math\obj\Release\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.math\bin\Release\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.math\bin\Release\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.math\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.math\obj\Release\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.math\obj\Release\QuiXoT.math.pdb
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\QuiXoT.math\bin\Release\QuiXoT.math.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\QuiXoT.math\bin\Release\QuiXoT.math.pdb
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\QuiXoT.math\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\QuiXoT.math\obj\Release\QuiXoT.math.dll
+C:\Documents and Settings\Magalhaes\Desktop\RawToBinStack\trunk\QuiXoT.math\obj\Release\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.math\bin\Release\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.math\bin\Release\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.math\obj\Release\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.math\obj\Release\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\RawToBinStack\trunk\QuiXoT.math\obj\Release\QuiXoT.math.pdb
